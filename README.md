@@ -1,3 +1,3 @@
-# dh
-# a program weboldaldból kinyeri az adatokat hogy a megadott url cím számunkra lényeges részét levágja és JSON-ba tegye
-# veszély: ha a "CC-Main" a forrás szöveg is tartalmazza a megoldás nem lesz megfelelő
+# DH
+# A program az adott weboldaldból kinyeri az adatokat (szöveget), hogy a megadott oldalon lévő szövegből jelen esetben egy URL címből a számunkra lényeges részt levágja és JSON-ba teszi.
+# Veszély: ha a "CC-Main"-t nem csak az URL cím a tartalmazza a megoldás nem lesz tökéletes.
